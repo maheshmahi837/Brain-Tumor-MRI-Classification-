@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9544,
+  "weighted_f1": 0.9534,
+  "macro_f1": 0.9534,
+  "weighted_auc": 0.9927,
+  "class_names": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ],
+  "num_test_imgs": 1600
+}
